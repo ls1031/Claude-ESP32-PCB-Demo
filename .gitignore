@@ -1,0 +1,8 @@
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+~*.lck
+*.rpt
+__pycache__/
+.claude/settings.local.json
